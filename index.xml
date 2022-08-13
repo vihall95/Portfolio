@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victoria Hall on Home</title>
+    <link>https://vihall95.github.io/portfolio3/</link>
+    <description>Recent content in Victoria Hall on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vihall95.github.io/portfolio3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Generative Modeling on MNIST data: Variational Autoencoders</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-ten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-ten/</guid>
+      <description>This project implements a Variational Autencoder trained on MNIST data to generate images.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://vihall95.github.io/portfolio3/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/about/</guid>
+      <description>I am in fact not a cartoon My name is Victoria Hall and I current a Senior Pricing Analyst for a major footwear retailer. I didn&amp;rsquo;t start in analytics but first found my home in politics. In my undergraduate career at The Ohio State University (Go Buck!) I studied both qualitative and quantitative political science disciplines. I also tacked on Spanish and Creative Writing to satisfy an unending curiosity. In these studies I pulled out two true big interests, which were storytelling and trying to understand the world around me in as many different ways as possible.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://vihall95.github.io/portfolio3/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/contact/</guid>
+      <description> Platform LinkedIn: https://www.linkedin.com/in/victoria-hall-128877153/ Github: https://github.com/vihall95 Email: hall.tori.1995@gmail.com </description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks for Image Classification</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-one/</guid>
+      <description>This project sets out to use the Keras deep learning library to implement and test different image classification tasks. Networks were test on two different datasets including MNIST and CIFAR10 data, both of which can be accessed through the Keras dataset library.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn Reduction</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-two/</guid>
+      <description>The purpose of this project is to utilize different machine learning techniques to create a tool that a company can use to predict whether a customer is likely to churn or not. By providing these predictions any number of business stakeholders like, a marketing or merchant team, can produce strategies to intervene and try to prevent churn. Multiple classification models were tested before the final results was chosen.
+Models Evaluated Logistic Regression - Baseline linear classifier for binary data Random Forest - Ensemble Bagging Classifier (Bootstrap Aggregation).</description>
+    </item>
+    
+    <item>
+      <title>Customer Personality Analysis</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-three/</guid>
+      <description>This project uses unsupervised and supervised learning techniques to improve the results of targeted advertising. the data came from a Kaggle challenge. After initial data cleansing and EDA, KMean Clustering is used to identify latent groupings and then those results were used as an additional feature for Logistic Regression
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Data Storage Management with Python and Parquet</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-four/</guid>
+      <description>The purpose of this project is to demonstrate different creation and retrieval strategies for accessing airline data stored in Parquet file formats. This dataset contains flight route information from OpenFlights. The original data in stored as JSONL in zip file. The JSON data is parsed, converted to Parquet and saved folders created by key. Then different retrieval techniques are employed to access the Parquet files is a digestible form.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization Techniques</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-five/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-five/</guid>
+      <description>This project seeks to understand and evaluate different data visualization techniques in Python, R, and Tableau
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Footwear Pricing Predictions</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-six/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-six/</guid>
+      <description>The purpose of this project was to try and accurately predict the price of shoes based on several explanatory variables. Extensive Data Cleansing and EDA were performed on a dataset of 10,000 women&amp;rsquo;s shoes. A regression model was used to try and predict the price.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Movie Review Sentiment Modeling</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-seven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-seven/</guid>
+      <description>This project uses movies reviews to identify a model that best classifies the sentiment of the review. Includes data prep of text including tokenizing, stemming, and tf-idf vextorization. Both logistic and SVM models were tested.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Retail Price Classification</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-eight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-eight/</guid>
+      <description>The purpose of this project was to use a series of features about mobile phones to help determine what price range a phone should be in for a fledgling business. The data, which came from Kaggle.com, was cleaned and prepped, then used to test two main classifier modeling techniques wherein numerous parameters were examined. Two modeling methods, Random Forest and XGBoost were tested with multiple parameter values until the best accuracy was achieved.</description>
+    </item>
+    
+    <item>
+      <title>Retail Sales Forecasting</title>
+      <link>https://vihall95.github.io/portfolio3/post/project-nine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vihall95.github.io/portfolio3/post/project-nine/</guid>
+      <description>The purpose of this project was to find the best modeling technique to predict sales for a chain of retail stores. The data, which came from Kaggle.com was cleaned and prepped, then used to test a series of time series modeling techniques including SARIMA and SARIMAX.
+Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
